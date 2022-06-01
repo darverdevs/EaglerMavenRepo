@@ -47,6 +47,12 @@ Then, to add them as dependencies:
     <artifactId>ProtocolLib</artifactId>
     <version>3.6.4</version>
 </dependency>
+--------- PermissionSex ----------
+<dependency>
+    <groupId>com.github.EaglerMaven</groupId>
+    <artifactId>PermissionSex</artifactId>
+    <version>1.19.6</version>
+</dependency>
 ```
 
 If you are getting errors, run `mvn clean install -U` then, cut and paste the dependencies
