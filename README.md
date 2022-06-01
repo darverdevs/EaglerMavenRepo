@@ -8,15 +8,18 @@ If you would like to contribute and suggest some plugins to be added, please **d
 ## How to use:
 
 Include the repo in your pom.xml with:
-`<repository>\
-    <id>PrimCoreRepos-repos</id>\
-    <url>https://github.com/darverdevs/EaglerMavenRepo/raw/main</url>\
-</repository>\`
+```
+<repository>
+    <id>PrimCoreRepos-repos</id>
+    <url>https://github.com/darverdevs/EaglerMavenRepo/raw/main</url>
+</repository>
+```
 
 Then, to add them as dependencies:
- `---------- Vault -----------
-<dependency>\
-    <groupId>com.github.EaglerMaven</groupId>\
+```
+---------- Vault -----------
+<dependency>
+    <groupId>com.github.EaglerMaven</groupId>
     <artifactId>Vault</artifactId>
     <version>1.2.26</version>
 </dependency>
@@ -43,6 +46,7 @@ Then, to add them as dependencies:
     <groupId>com.github.EaglerMaven</groupId>
     <artifactId>ProtocolLib</artifactId>
     <version>3.6.4</version>
-</dependency>`
+</dependency>
+```
 
 If you are getting errors, run `mvn clean install -U` then, cut and paste the dependencies
