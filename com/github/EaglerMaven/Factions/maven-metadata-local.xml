@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>tech.nully.primcore</groupId>
+  <artifactId>Factions</artifactId>
+  <versioning>
+    <release>2.0.1</release>
+    <versions>
+      <version>2.0.1</version>
+    </versions>
+    <lastUpdated>20220531224846</lastUpdated>
+  </versioning>
+</metadata>
