@@ -19,9 +19,17 @@ Include the repo in your pom.xml with:
     <url>https://github.com/darverdevs/EaglerMavenRepo/raw/main</url>
 </repository>
 ```
-
-Then, to add them as dependencies:
+Then, add the craftbukkit jar file to your pom with:
 ```
+<dependency>
+    <groupId>com.github.EaglerMaven</groupId>
+    <artifactId>craftbukkit</artifactId>
+    <version>craftbukkit-1.5.2-R1.0</version>
+</dependency>
+```
+Finally, to add Plugin API as dependencies:
+```
+(Not: you do not have to add all of the dependencies for anything to work)
 ---------- Vault -----------
 <dependency>
     <groupId>com.github.EaglerMaven</groupId>
