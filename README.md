@@ -5,6 +5,11 @@ This repository contains a GitHub Maven repository that can be used for common p
 # Contributing
 
 If you would like to contribute and suggest some plugins to be added, please **do not** submit a pull request. Instead, submit an issue with the plugin you would like to see added, and we will fetch the relevant version and add it.
+
+**Things you can contribute via pull request:**
+- Fixing typos in readme
+- Fixing the ass structure of the Readme
+- Basically fixing the readme
 ## How to use:
 
 Include the repo in your pom.xml with:
