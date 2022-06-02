@@ -1,6 +1,6 @@
 # EaglerMavenRepo
 
-This repository contains a GitHub Maven repository that can be used for common plugin dependencies that plugins for Eaglercraft servers use.
+This repository contains a GitHub Maven repository that can be used for common plugin dependencies that plugins for Eaglercraft servers can use.
 
 # Contributing
 
