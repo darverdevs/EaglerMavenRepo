@@ -12,7 +12,7 @@ If you would like to contribute and suggest some plugins to be added, please **d
 - Basically fixing the readme
 ## How to use:
 
-Include the repo in your pom.xml with:
+Include the repo in your pom.xml in your repositories with:
 ```
 <repository>
     <id>PrimCoreRepos-repos</id>
@@ -24,7 +24,7 @@ Then, add the craftbukkit jar file to your pom with:
 <dependency>
     <groupId>com.github.EaglerMaven</groupId>
     <artifactId>craftbukkit</artifactId>
-    <version>craftbukkit-1.5.2-R1.0</version>
+    <version>1.5.2-R1.0</version>
 </dependency>
 ```
 Finally, to add Plugin API as dependencies:
