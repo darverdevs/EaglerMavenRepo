@@ -27,6 +27,15 @@ Then, add the craftbukkit jar file to your pom with:
     <version>1.5.2-R1.0</version>
 </dependency>
 ```
+Or, alternatively, you can use BongoBukkit which has a vehicleSteerEvent
+```
+<dependency>
+    <groupId>com.github.EaglerMaven</groupId>
+    <artifactId>BongoBukkit</artifactId>
+    <version>1.5.2</version>
+    <scope>provided</scope>
+</dependency>
+```
 Finally, to add Plugin API as dependencies:
 ```
 (Not: you do not have to add all of the dependencies for anything to work)
@@ -65,6 +74,13 @@ Finally, to add Plugin API as dependencies:
     <groupId>com.github.EaglerMaven</groupId>
     <artifactId>PermissionSex</artifactId>
     <version>1.19.6</version>
+</dependency>
+--------- BossBarAPI -------------
+<dependency>
+    <groupId>com.github.EaglerMaven</groupId>
+    <artifactId>BossBarAPI</artifactId>
+    <version>0.0.1</version>
+    <scope>provided</scope>
 </dependency>
 ```
 
