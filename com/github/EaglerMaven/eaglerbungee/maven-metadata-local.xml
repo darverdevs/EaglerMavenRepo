@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.EaglerMaven</groupId>
+  <artifactId>eaglerbungee</artifactId>
+  <versioning>
+    <release>1.5.2-R1.0</release>
+    <versions>
+      <version>1.5.2-R1.0</version>
+    </versions>
+    <lastUpdated>20221023160116</lastUpdated>
+  </versioning>
+</metadata>
