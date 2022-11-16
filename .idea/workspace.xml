@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42e711d1-0415-4664-8c80-43996dffaecb" name="Changes" comment="Added citizens" />
+    <list default="true" id="42e711d1-0415-4664-8c80-43996dffaecb" name="Changes" comment="Added citizens 2.0.16 for 1.8.8" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +44,7 @@
       <workItem from="1668284931455" duration="422000" />
       <workItem from="1668487010948" duration="201000" />
       <workItem from="1668487249131" duration="55000" />
+      <workItem from="1668558228557" duration="61000" />
     </task>
     <task id="LOCAL-00001" summary="added EaglerBungee and ItemRenamer">
       <created>1668285229906</created>
@@ -59,7 +60,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668487284474</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added citizens 2.0.16 for 1.8.8">
+      <created>1668558242140</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668558242140</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,6 +87,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added EaglerBungee and ItemRenamer" />
     <MESSAGE value="Added citizens" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added citizens" />
+    <MESSAGE value="Added citizens 2.0.16 for 1.8.8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added citizens 2.0.16 for 1.8.8" />
   </component>
 </project>
