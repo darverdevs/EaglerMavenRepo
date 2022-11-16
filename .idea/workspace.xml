@@ -45,6 +45,7 @@
       <workItem from="1668487010948" duration="201000" />
       <workItem from="1668487249131" duration="55000" />
       <workItem from="1668558228557" duration="61000" />
+      <workItem from="1668560548280" duration="47000" />
     </task>
     <task id="LOCAL-00001" summary="added EaglerBungee and ItemRenamer">
       <created>1668285229906</created>
@@ -67,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668558242140</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added citizens 2.0.16 for 1.8.8">
+      <created>1668560580245</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668560580245</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
