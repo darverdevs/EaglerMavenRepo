@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42e711d1-0415-4664-8c80-43996dffaecb" name="Changes" comment="Added citizens 2.0.16 for 1.8.8" />
+    <list default="true" id="42e711d1-0415-4664-8c80-43996dffaecb" name="Changes" comment="Added citizens 2.0.16 for 1.8.8">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/github/EaglerMaven/BarAPI/maven-metadata-local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/com/github/EaglerMaven/BarAPI/maven-metadata-local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/github/EaglerMaven/BarAPI/maven-metadata-local.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/com/github/EaglerMaven/BarAPI/maven-metadata-local.xml.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/github/EaglerMaven/BarAPI/maven-metadata-local.xml.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/com/github/EaglerMaven/BarAPI/maven-metadata-local.xml.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/github/EaglerMaven/Factions/maven-metadata-local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/com/github/EaglerMaven/Factions/maven-metadata-local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/github/EaglerMaven/Factions/maven-metadata-local.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/com/github/EaglerMaven/Factions/maven-metadata-local.xml.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/github/EaglerMaven/Factions/maven-metadata-local.xml.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/com/github/EaglerMaven/Factions/maven-metadata-local.xml.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/github/EaglerMaven/MassiveCore/maven-metadata-local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/com/github/EaglerMaven/MassiveCore/maven-metadata-local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/github/EaglerMaven/MassiveCore/maven-metadata-local.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/com/github/EaglerMaven/MassiveCore/maven-metadata-local.xml.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/github/EaglerMaven/MassiveCore/maven-metadata-local.xml.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/com/github/EaglerMaven/MassiveCore/maven-metadata-local.xml.sha1" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +58,8 @@
       <workItem from="1668558228557" duration="61000" />
       <workItem from="1668560548280" duration="47000" />
       <workItem from="1668560821827" duration="50000" />
+      <workItem from="1668568645062" duration="112000" />
+      <workItem from="1668569235084" duration="675000" />
     </task>
     <task id="LOCAL-00001" summary="added EaglerBungee and ItemRenamer">
       <created>1668285229906</created>
@@ -83,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668560849414</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added citizens 2.0.16 for 1.8.8">
+      <created>1668568691922</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668568691922</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
