@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42e711d1-0415-4664-8c80-43996dffaecb" name="Changes" comment="Created 1.8.8 versions of every api">
+    <list default="true" id="42e711d1-0415-4664-8c80-43996dffaecb" name="Changes" comment="Added BossBarAPI 1.8.8">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/github/EaglerMaven/BossBarAPI/maven-metadata-local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/com/github/EaglerMaven/BossBarAPI/maven-metadata-local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/github/EaglerMaven/BossBarAPI/maven-metadata-local.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/com/github/EaglerMaven/BossBarAPI/maven-metadata-local.xml.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/github/EaglerMaven/BossBarAPI/maven-metadata-local.xml.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/com/github/EaglerMaven/BossBarAPI/maven-metadata-local.xml.sha1" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +55,8 @@
       <workItem from="1668568645062" duration="112000" />
       <workItem from="1668569235084" duration="716000" />
       <workItem from="1668572721966" duration="8000" />
+      <workItem from="1668627651872" duration="43000" />
+      <workItem from="1668660356533" duration="866000" />
     </task>
     <task id="LOCAL-00001" summary="added EaglerBungee and ItemRenamer">
       <created>1668285229906</created>
@@ -102,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668570335348</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added HolographicDisplays">
+      <created>1668627672774</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668627672774</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +136,7 @@
     <MESSAGE value="Added citizens" />
     <MESSAGE value="Added citizens 2.0.16 for 1.8.8" />
     <MESSAGE value="Created 1.8.8 versions of every api" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created 1.8.8 versions of every api" />
+    <MESSAGE value="Added HolographicDisplays" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added HolographicDisplays" />
   </component>
 </project>
